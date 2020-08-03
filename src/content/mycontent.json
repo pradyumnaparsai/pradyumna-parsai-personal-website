@@ -1,14 +1,14 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Pradyumna Parsai | Personal Webpage",
+	"Name": "Pradyumna Parsai",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Ungrad at IIT Ropar. Passionate about New Technologies.",
 		"I grab every chance I get to travel, learn and create."
 	],
-	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+	"MainImage": "https://imgur.com/a/9tQYszx",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "https://imgur.com/6ew7RaC",
 	"AboutContent": [
 		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
 		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
@@ -19,7 +19,7 @@
 	"WorkContent": [
 		"I am currently full time Software Developer Engineer at Microsoft."
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
+	"WorkImage": "",
 	"InternshipsStartLine": "Previously, I have interned with :",
 	"InternShips": [{
 			"name": "Amazon India",
