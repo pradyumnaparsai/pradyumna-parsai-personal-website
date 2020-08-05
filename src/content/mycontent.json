@@ -10,59 +10,33 @@
 
 	"AboutImage": "https://i.imgur.com/8EJoC9O.jpg",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+		"I’m currently pursuing Civil Engineering at IIT Ropar, though not really focusing in Civil.",
+		"I am passionate about Computers and how to bulid strong machines.",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		""
 	],
 	"WorkImage": "",
-	"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
-			"name": "Amazon India",
-			"link": "#"
-		},
+	"InternshipsStartLine": "",
+	"InternShips": [
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
 		}
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
-	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
-		},
+	"ProjectsStartLine": "",
+	"Projects": [
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
-		},
-		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1JH2v9lPiOVOgCZmQO3rRMrcKaEpNmYav/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "mailto:pradyumna.parsai27@gmail.com",
+	"linkedin": "https://www.linkedin.com/in/pradyumna-parsai",
+	"facebook": "https://www.facebook.com/pradyumna.parsai",
+	"github": "https://github.com/pradyumnaparsai",
+	"instagram": "https://www.instagram.com/pradyumnaparsai/",
+	"twitter": "https://twitter.com/PradyumnaParsai"
 }
